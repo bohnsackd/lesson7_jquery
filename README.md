@@ -4,17 +4,16 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+11/13/17
 
 ### Student Name:  
-(First and Last Name)
+David Bohnsack
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment showed us how to use jQuery and javascript to add effects to your application or webpage.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://bohnsackd.github.io/lesson7_jquery/.
 
 ### Lessons Learned in the Assignment:
 1. (Briefly describe a lesson/concept learned in this lesson.)
